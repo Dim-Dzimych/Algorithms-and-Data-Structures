@@ -1,0 +1,12 @@
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/bin/Debug/netcoreapp3.1/Binary Heap.deps.json
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/bin/Debug/netcoreapp3.1/Binary Heap.runtimeconfig.json
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/bin/Debug/netcoreapp3.1/Binary Heap.runtimeconfig.dev.json
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/bin/Debug/netcoreapp3.1/Binary Heap.dll
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/bin/Debug/netcoreapp3.1/Binary Heap.pdb
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.csprojAssemblyReference.cache
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.AssemblyInfoInputs.cache
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.AssemblyInfo.cs
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.csproj.CoreCompileInputs.cache
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.dll
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.pdb
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Heap/obj/Debug/netcoreapp3.1/Binary Heap.genruntimeconfig.cache

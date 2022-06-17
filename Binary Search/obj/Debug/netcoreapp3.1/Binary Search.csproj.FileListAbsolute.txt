@@ -1,0 +1,12 @@
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.deps.json
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.runtimeconfig.json
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.runtimeconfig.dev.json
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.dll
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/bin/Debug/netcoreapp3.1/Binary Search.pdb
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.csprojAssemblyReference.cache
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.AssemblyInfoInputs.cache
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.AssemblyInfo.cs
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.csproj.CoreCompileInputs.cache
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.dll
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.pdb
+/Users/dzmitryhastsilovich/RiderProjects/Algorithm and Data structure/Binary Search/obj/Debug/netcoreapp3.1/Binary Search.genruntimeconfig.cache
