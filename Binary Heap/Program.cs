@@ -5,13 +5,16 @@ namespace Binary_Heap
 {
     class Program
     {
-        private static List<int> _list;
-        
         static void Main(string[] args)
         { // initialize "_list" here
-            _list =new List<int>();
+            Heap heap = new Heap();
         }
-        private static void Adder(int value)
+    }
+
+    public class Heap
+    {
+        private static List<int> _list = new List<int>();
+        public  void Adder(int value)
         {
             // method Add value to list and than take the last number index and get parent number index
             _list.Add(value);
@@ -26,7 +29,7 @@ namespace Binary_Heap
                 parent = (lastNumber - 1) / 2;
             }
         }
-        private static void Heapify(int startTop)
+        private  void Heapify(int startTop)
         {
             // after each removal we must check numbers position
             int leftChild = 2 * startTop + 1;
@@ -58,7 +61,7 @@ namespace Binary_Heap
             }
         
         }
-        private static void Print()
+        public  void Print()
         {
             // imitate level of tree
             var a = 0;
@@ -75,7 +78,7 @@ namespace Binary_Heap
                 b = b * 2 + 1;
             }
         }
-        private static int GetMax()
+        public  int GetMax()
         {
             // just save number, change position
             var topNumber = _list[0];
@@ -86,11 +89,10 @@ namespace Binary_Heap
             Heapify(0);
             return topNumber;
         }
-        private static int HeapSize()
+        private  int HeapSize()
         {
             return _list.Count;
         }
-
     }
 }
  // Sorting O( N * log N) add and check every number
